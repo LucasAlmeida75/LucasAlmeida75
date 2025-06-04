@@ -51,6 +51,7 @@ Busco sempre criar soluções robustas, escaláveis e de fácil manutenção, va
 
 ### 📈 GitHub Stats
 
+
 <p align="start">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlmeida75&layout=compact&theme=tokyonight" />
 </p>
