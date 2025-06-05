@@ -46,14 +46,17 @@ Busco sempre criar soluções robustas, escaláveis e de fácil manutenção, va
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-232F3E?style=flat-square&logo=bookstack&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 ---
 
 ### 📈 GitHub Stats
 
-
 <p align="start">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlmeida75&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlmeida75&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+<p align="start">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAlmeida75&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
