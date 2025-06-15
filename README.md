@@ -12,16 +12,24 @@ Sou um desenvolvedor fullstack desde 2021, com foco principal em desenvolvimento
 
 ## Minhas Experiências e Competências
 
-- Desenvolvimento em PHP nativo, Laravel, e CodeIgniter
-- Programação em JavaScript nativo e JQuery
-- Front-end com HTML, CSS e React
-- Backend com Node.js e APIs RESTful
-- Integração e desenvolvimento de webservices SOAP (ex.: integração com sistemas de prefeituras, NFe)
-- Sistemas de fila e mensageria usando RabbitMQ
-- Comunicação com bancos de dados Oracle PL/SQL e MySQL
-- Implementação de WebSocket para funcionalidades em tempo real
-- Controle de versões com GitHub
-- Metodologias ágeis: SCRUM e Kanban
+- PHP puro;
+- Laravel;
+- CodeIgniter;
+- Testes unitários;
+- Javascript nativo;
+- JQuery;
+- HTML, CSS;
+- React;
+- Node.js;
+- Integração e desenvolvimento de API no padrão REST;
+- Desenvolvimento de microsserviços;
+- Integração com webservices no padrão SOAP;
+- Sistema de fila/mensageria com RabbitMQ
+- Comunicação com banco de dados Oracle PL/SQL e MySQL;
+- Utilização de tecnologias de Web Socket para atualizações em tempo real;
+- Versionamento com Github;
+- Metodologias SCRUM e Kanban;
+- CLEAN Code;
 
 ## Meu Propósito
 
